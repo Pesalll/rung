@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\bin\Debug\latPaswarung.exe.config
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\bin\Debug\latPaswarung.exe
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\bin\Debug\latPaswarung.pdb
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.Form1.resources
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.exe
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.pdb
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.menu.resources
+C:\Users\Lenovo\source\repos\latPaswarung\latPaswarung\obj\Debug\latPaswarung.warung.resources
